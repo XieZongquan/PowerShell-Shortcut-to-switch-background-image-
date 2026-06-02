@@ -1,6 +1,6 @@
 # PowerShell Background Image Shortcut Switch
 
-[中文](#powershell背景图片快捷切换) | [English](#english Translated from chinese by chatGPT)
+[中文](#powershell背景图片快捷切换) | [English](#english)
 
 ---
 
@@ -58,9 +58,10 @@ notepad $PROFILE
 
 ---
 
-## English(Translated from chinese by chatGPT)
+## English
 
 Quickly switch background images and opacity in Windows Terminal using keyboard shortcuts, with automatic window resizing to match each image's aspect ratio.
+This is translated from chinese by chatGPT.
 
 ### Features
 
