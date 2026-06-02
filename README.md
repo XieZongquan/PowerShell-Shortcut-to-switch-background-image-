@@ -1,6 +1,6 @@
 # PowerShell Background Image Shortcut Switch
 
-[中文](#powershell背景图片快捷切换) | [English](#english)
+[中文](#powershell背景图片快捷切换) | [English](#english(Translated from chinese by chatGPT))
 
 ---
 
